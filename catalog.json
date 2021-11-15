@@ -23,5 +23,30 @@
     "name": "orange",
     "description": "La naranja es una fruta cítrica obtenida del naranjo dulce.",
     "image_url": "https://raw.githubusercontent.com/YagoRB/fp/main/orange.jpg"
+  },
+  {
+    "name": "manzana",
+    "description": "La manzana es el fruto comestible de la especie Malus domestica, el manzano común.",
+    "image_url": "https://raw.githubusercontent.com/YagoRB/fp/main/manzana.jpg"
+  },
+  {
+    "name": "pera",
+    "description": "La pera es una de las frutas que mejor tolera el organismo y de las que menos alergias producen.",
+    "image_url": "https://raw.githubusercontent.com/YagoRB/fp/main/pera.jpg"
+  },
+  {
+    "name": "platano",
+    "description": "Las plantas de plátano son cultivos perennes que crecen desde una cepa gruesa subterránea.",
+    "image_url": "https://raw.githubusercontent.com/YagoRB/fp/main/platano.jpeg"
+  },
+  {
+    "name": "lima",
+    "description": "Lima es un nombre genérico por el que se conocen varias frutas cítricas similares entre sí, de diversas especies de árboles frutales.",
+    "image_url": "https://raw.githubusercontent.com/YagoRB/fp/main/lima.jpg"
+  },
+  {
+    "name": "orange",
+    "description": "La naranja es una fruta cítrica obtenida del naranjo dulce.",
+    "image_url": "https://raw.githubusercontent.com/YagoRB/fp/main/orange.jpg"
   }
 ]
